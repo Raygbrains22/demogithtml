@@ -1,0 +1,37 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+h1 {
+    color: aqua;
+    text-decoration: solid;
+    background-color: black;
+    color: bisque;
+}
+
+h2 {
+    size: 24px;
+}
+
+img {
+    border-radius: 50px;
+    width: 200px;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+p {
+    width: 70%;
+    text-align: center;
+}
+a {
+    color: blue;
+    text-decoration: wavy;
+}
+
+.float {
+    float: left;
+}
